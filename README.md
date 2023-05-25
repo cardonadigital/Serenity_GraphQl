@@ -21,6 +21,9 @@ https://www.predic8.de/fruit-shop-graphql?%2F
 **Módulos testeados:**
 
 *Crear cliente
+
 *Eliminar cliente
+
 *Actualizar cliente
+
 *Obtener cliente
